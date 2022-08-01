@@ -1,16 +1,6 @@
-# api_practice_2
+This project is built to practice working with rest API's.
+## Predict nationality on the basis of name
+Tried to make a simple app using https://api.nationalize.io/?name=? api , where user can enter name and find out that, to which country that name belongs.
 
-A new Flutter project.
+https://user-images.githubusercontent.com/56845350/182137564-3418c57d-7b1e-4391-b2d9-abc8b624760b.mp4
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
